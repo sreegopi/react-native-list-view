@@ -15,5 +15,5 @@ react-native run-android
 
 
 
-# ionic3-template
+
 # react-native-list-view
